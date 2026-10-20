@@ -1,0 +1,15 @@
+{
+  "name": "OpenPlate — Open Source Meal Planner",
+  "short_name": "OpenPlate",
+  "description": "Plan meals, build smart grocery lists, cook with what you have, and waste less. Open source, offline-first, no accounts.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FAF6EF",
+  "theme_color": "#2E7D3C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
